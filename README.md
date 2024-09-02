@@ -1,6 +1,6 @@
 # Oi!
 
-I'm Jado ("dʒeɪdoʊ"). I am the Director of Development @ [TracTru](https://tractru.com), as well as a passionate back-end developer who loves writing in PHP & Go. I don't care for JavaScript/TypeScript, but don't let that stop us from being friends. 😃
+I'm Jado ("dʒeɪdoʊ"). I am the Director of Development @ [TracTru](https://tractru.com), as well as a passionate back-end developer who loves writing in strongly-typed languages (like PHP & Go). I don't care as much for JavaScript/TypeScript, but don't let that stop us from being friends. 😃
 
 ## The Fun Stuff
 
