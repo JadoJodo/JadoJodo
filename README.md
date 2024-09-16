@@ -1,6 +1,11 @@
-# Oi!
+# Hi!
 
-I'm Jado ("dʒeɪdoʊ"). I am the Director of Development @ [TracTru](https://tractru.com), as well as a passionate back-end developer who loves writing in strongly-typed languages (like PHP & Go). I don't care as much for JavaScript/TypeScript, but don't let that stop us from being friends. 😃
+I'm Jado ("dʒeɪdoʊ"). I am a passionate developer who loves writing in strongly-typed languages. I have experience in a number of languages, including:
+
+- PHP 7/8
+- Go
+- JavaScript
+- TypeScript
 
 ## The Fun Stuff
 
@@ -8,14 +13,19 @@ I love:
 
 - 👑 Jesus
 - ☕️ Coffee ([Grit](https://gritcoffee.com) has the best beans!)
-- ⚙️ [Factorio](https://www.factorio.com) – The factory must grow...
-- 📖 Reading
+- 🥘 Cooking
+- 🐧 Linux (est. '05)
+- 📖 Reading (mostly sci-fi/fantasy)
 
-I like:
+I play:
 
-- 🕹️ Board Games (you might even say that I have _too_ many)
-- 🪑 Woodworking
-- 📱 Technology
+- ⚙️ Factorio – The factory must grow...
+- 🥅 Rocket League - Need boost...
+
+I listen to:
+
+- 🎸 Death Metal
+- 🎹 Electronica
 
 ---
 
