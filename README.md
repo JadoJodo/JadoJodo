@@ -1,21 +1,19 @@
-# Hi!
-I'm Jado ("dʒeɪdoʊ"), a geek with a passion for learning and a soft spot for strongly-typed languages.
+# Hi, I’m Jado (pronounced “JAY-doe”).
 
-### The Tech Stack
-* PHP, Go, TypeScript/JavaScript, NodeJS, Ruby, CSS (and a whole bunch of others, but I won't bore you with the long-tail)
-* Laravel, Symfony, Vue.js, React.js, Next.js, Nuxt.js, AngularJS, Svelte.js, Express, NestJS, Rails, Bootstrap/Tailwind, Spring (you get the idea)
-* NGINX, Apache, Caddy, MySQL, MSSQL, PGSQL, Redis (because who doesn't love a good homelab?)
+I’m a senior software engineer with a background spanning backend systems, web platforms, infrastructure, and engineering leadership. I’ve spent the last decade building and maintaining production systems, integrating third-party services, and improving reliability and developer experience across teams.
 
-### Controversial Takes
-* Windows XP was, in fact, the best Windows (don't @ me)
-* XML is the actual worst (no debate necessary)
-* PHP has gotten REALLY good (I know, I'm surprised too)
-* GraphQL is overused (but hey, at least it's not XML)
+## Focus Areas
+- Backend and full-stack application development
+- System design and architecture
+- Data modeling and performance
+- Infrastructure, CI/CD, and operational reliability
+- Pragmatic use of AI as a development accelerator
 
-### The Fun Stuff
-* I'm all about ☕️ coffee, 🥘 cooking, and 🐧 Linux (because what's a geek without a love for Linux?)
-* When I'm not coding, you can find me playing ⚙️ Factorio or 🥅 Rocket League
-* My music tastes are all over the place, but 🎸 Death Metal and 🎹 Electronica are definitely up there
+## Primary Technologies
+**Languages:** PHP, Go, TypeScript/JavaScript, Node.js, Ruby  
+**Frameworks:** Laravel, Symfony, React, Next.js, Vue, Nuxt, Svelte  
+**Data & Infra:** PostgreSQL, MySQL, Redis, Linux, Docker, NGINX
 
----
-_There are far, far better things ahead than any we leave behind._
+I care about correctness, maintainability, and building systems that are easy for teams to understand and evolve over time.
+
+Outside of work, I enjoy coffee, cooking, Linux tinkering, and games like Factorio and Rocket League.
