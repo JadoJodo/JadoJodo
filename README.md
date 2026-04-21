@@ -1,6 +1,6 @@
 # Hi, I’m Jado (pronounced “JAY-doe”).
 
-I’m a senior software engineer with a background spanning backend systems, web platforms, infrastructure, and engineering leadership. I’ve spent the last decade building and maintaining production systems, integrating third-party services, and improving reliability and developer experience across teams.
+I’m a software engineer with a background spanning backend systems, web platforms, infrastructure, and engineering leadership. I’ve spent the last decade building and maintaining production systems, integrating third-party services, and improving reliability and developer experience across teams.
 
 ## Focus Areas
 - Backend and full-stack application development
